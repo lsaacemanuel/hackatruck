@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "7e94223f750def448122426936c22b0f",
+    "_rev": "3-65a0d003b4b1e7205921e937df4b0e26",
+    "nome": "Madonna",
+    "musicas": [
+      "Lucky Star",
+      "Borderline",
+      "Burning Up",
+      "I Know It",
+      "Holiday",
+      "Think of Me",
+      "Physical Attraction",
+      "Everybody"
+    ],
+    "singles": [
+      "Lucky Star",
+      "Borderline",
+      "Holiday",
+      "Burning Up/Physical Attraction",
+      "Everybody"
+    ],
+    "album": "https://www.clashmusic.com/wp-content/uploads/2018/08/madonna-1983-album1-xxlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+    "covers": [
+      "https://upload.wikimedia.org/wikipedia/pt/7/77/Madonna_-_Lucky_Star.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/4/4d/Madonna_-_Borderline_%28US_7-inch_single%29.png",
+      "https://upload.wikimedia.org/wikipedia/en/6/62/Holiday_%28UK_single%29_-_Madonna.png",
+      "https://upload.wikimedia.org/wikipedia/pt/8/8d/Madonna_-_Burning_Up_%28single%29.png",
+      "https://upload.wikimedia.org/wikipedia/pt/c/c8/Everybody-capa.jpg"
+    ]
+  },
+  {
+    "_id": "b4645e8d48d1a703be00d1b625482dd5",
+    "_rev": "2-f10222283c784b65baec07434cf09b8c",
+    "nome": "Like a Virgin",
+    "musicas": [
+      "Material Girl",
+      "Angel",
+      "Like a Virgin",
+      "Over and Over",
+      "Love Don't Live Here Anymore",
+      "Dress You Up",
+      "Shoo-Bee-Doo",
+      "Pretender",
+      "Stay"
+    ],
+    "singles": [
+      "Material Girl",
+      "Like a Virgin",
+      "Angel",
+      "Into the Groove",
+      "Dress You Up"
+    ],
+    "album": "https://upload.wikimedia.org/wikipedia/en/1/17/LikeAVirgin1984.png",
+    "covers": [
+      "https://upload.wikimedia.org/wikipedia/en/5/5c/Madonna_-_Material_Girl_%28single%29.png",
+      "https://upload.wikimedia.org/wikipedia/en/5/53/Like_a_Virgin_%28single%29_cover.png",
+      "https://upload.wikimedia.org/wikipedia/en/2/29/Angel_Madonna.png",
+      "https://upload.wikimedia.org/wikipedia/en/4/48/Madonna_-_Into_the_Groove.png",
+      "https://upload.wikimedia.org/wikipedia/en/f/fd/Madonna_-_Dress_You_Up.png"
+    ]
+  },
+  {
+    "_id": "b4645e8d48d1a703be00d1b62548884a",
+    "_rev": "1-07ac6d302d34000cb21bcfd55c09c3d5",
+    "nome": "True Blue",
+    "musicas": [
+      "Papa Don't Preach",
+      "Open Your Heart",
+      "White Heat",
+      "Live to Tell",
+      "Where's the Party",
+      "True Blue",
+      "La Isla Bonita",
+      "Jimmy Jimmy",
+      "Love Makes the World Go Round"
+    ],
+    "singles": [
+      "Papa Don't Preach",
+      "Open Your Heart",
+      "Live to Tell",
+      "True Blue",
+      "La Isla Bonita"
+    ],
+    "album": "https://m.media-amazon.com/images/I/51ormFL0CBL.jpg",
+    "covers": [
+      "https://upload.wikimedia.org/wikipedia/pt/7/72/Madonna-Papa-Dont-Preach-5378.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/d/de/Madonna_-_Open_Your_Heart.png",
+      "https://upload.wikimedia.org/wikipedia/pt/b/b4/Live_to_tell_single.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/f/f5/True_Blue_-_Madonna.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/6/6f/La_Isla_Bonita.jpg"
+    ]
+  },
+  {
+    "_id": "e83704cf96ca920523bd9152114dbd48",
+    "_rev": "1-5605bcb3dd892864c3182d9fa36a773d",
+    "nome": "Like a Prayer",
+    "musicas": [
+      "Like a Prayer",
+      "Express Yourself",
+      "Love Song",
+      "Till Death Do Us Part",
+      "Promise to Try",
+      "Cherish",
+      "Dear Jessie",
+      "Oh Father",
+      "Keep It Together",
+      "Spanish Eyes",
+      "Act of Contrition"
+    ],
+    "singles": [
+      "Lucky Star",
+      "Borderline",
+      "Holiday",
+      "Burning Up/Physical Attraction",
+      "Everybody"
+    ],
+    "album": "https://upload.wikimedia.org/wikipedia/pt/0/08/Madonna_-_Like_a_Prayer_album.png",
+    "covers": [
+      "https://upload.wikimedia.org/wikipedia/pt/8/82/Madonna-like-a-prayer-single-capa.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/b/b0/Capa_do_single_Express_Yourself.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/b/b0/Madonna_-_Cherish.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/8/85/Oh_Father_Madonna.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/0/06/Capa_de_Dear_Jessie.png",
+      "https://upload.wikimedia.org/wikipedia/pt/e/ea/Capa_de_Keep_It_Together.png"
+    ]
+  }
+]
